@@ -1,4 +1,4 @@
-Summary of the Project
+# Summary of the Project: Bright Coffee shop
 
  The business has recently appointed a new CEO with the vision of improving the overall performance of its three coffee shop located in 3 different areas.
  To support informed decision-making and drive strategic growth, I was tasked as the Data Analyst to review historical operational and sales data.
@@ -25,7 +25,7 @@ Below is the coding used.
 
 
 
-# Bright-coffee-shop
+# Bright-coffee-shop.sql
 Coffee shop project
 
 ---Exploratory data analysis---
